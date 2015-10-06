@@ -1,5 +1,5 @@
-# Work1
-Java MAIN ACTIVITY
+# Java MAIN ACTIVITY
+
 package com.example.vladyslav.mywork1;
 
 import android.app.Activity;
